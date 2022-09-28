@@ -1,11 +1,11 @@
 # TÓPICOS INTEGRADORES II
 
 NOME						MATRÍCULA
-Marcos Aurélio Pinheiro Silva 			01481739
-Adelson Mota da Silva				01107212
-Manoel Belmiro Da Silva Neto			01485731
-Bruno Murilo Rodrigues Lucena			01356457
-Carlos Felipe Martins				01413502
+Marcos Aurélio Pinheiro Silva 			01481739 \n
+Adelson Mota da Silva				01107212 \n
+Manoel Belmiro Da Silva Neto			01485731 \n
+Bruno Murilo Rodrigues Lucena			01356457 \n
+Carlos Felipe Martins				01413502 \n
 APLICATIVO: “Nosso Ambiente”
 
 BENCHMARKING DOS APLICATIVOS DE DENÚNCIA SOCIO AMBIENTAL
